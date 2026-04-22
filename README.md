@@ -2,6 +2,10 @@
 
 This repository contains the solution for building an AI-powered conversational agent for "AutoStream", a fictional SaaS company for automated video editing tools. It handles routing user intents, performing RAG over local pricing plans/policies, and utilizing memory for persistent state to qualify high-intent leads and extract their metadata precisely via mock API tools.
 
+## Demo
+https://github.com/user-attachments/assets/2f41c5be-1005-4f30-a561-fbdeca7c0487
+
+
 ## Requirements and Installation
 
 1. **Clone the repository.**
