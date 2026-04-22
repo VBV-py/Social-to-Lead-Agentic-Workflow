@@ -1,0 +1,4 @@
+files
+.env
+.mypy_cache
+.venv
