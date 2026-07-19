@@ -1,6 +1,6 @@
-# Social-to-Lead Agentic Workflow
+# Knowledge based AI Agent
 
-An AI-powered conversational agent built with **LangGraph** that intelligently routes user interactions and captures high-intent leads for AutoStream, a SaaS platform for automated video editing.
+An AI-powered conversational agent built with **LangGraph** that intelligently routes user interactions and captures high-intent leads for any product based company.
 
 ## Overview
 
@@ -12,11 +12,11 @@ This agent demonstrates a multi-turn conversational AI system that:
 
 ## Features
 
-- 🤖 **Intent-based Routing**: Automatically categorizes user messages into casual, product inquiry, or high-intent lead flows
-- 📚 **RAG Integration**: Retrieves product information from a local knowledge base
-- 💬 **Multi-turn Conversations**: Collects user information (name, email, platform) iteratively
-- 🧠 **Stateful Memory**: Maintains conversation history per user thread using LangGraph's memory saver
-- 🚀 **Dual Interface**: CLI and Streamlit web UI support
+-  **Intent-based Routing**: Automatically categorizes user messages into casual, product inquiry, or high-intent lead flows
+-  **RAG Integration**: Retrieves product information from a local knowledge base
+-  **Multi-turn Conversations**: Collects user information (name, email, platform) iteratively
+-  **Stateful Memory**: Maintains conversation history per user thread using LangGraph's memory saver
+-  **Dual Interface**: CLI and Streamlit web UI support
 
 ## Architecture
 
@@ -155,10 +155,7 @@ When all required information is collected, `mock_lead_capture()` is triggered t
 - **Streamlit**: Web UI framework
 - **Python 3.8+**: Runtime
 
-## License
-
-This project is open source and available under the MIT License.
 
 ## Author
 
-VBV-py
+@VBV-py
